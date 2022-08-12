@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Welcome to Stack");
+            Console.WriteLine("Welcome to Queue");
             Queue queue = new Queue();
             queue.Enqueue(56);
             queue.Enqueue(30);
