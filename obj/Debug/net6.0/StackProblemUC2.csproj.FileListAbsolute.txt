@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\bin\Debug\net6.0\StackProblemUC2.exe
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\bin\Debug\net6.0\StackProblemUC2.deps.json
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\bin\Debug\net6.0\StackProblemUC2.runtimeconfig.json
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\bin\Debug\net6.0\StackProblemUC2.dll
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\bin\Debug\net6.0\StackProblemUC2.pdb
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.AssemblyInfo.cs
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.dll
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\refint\StackProblemUC2.dll
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.pdb
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\StackProblemUC2.genruntimeconfig.cache
+C:\Users\mani1\source\repos\StackProblem\StackProblemUC2\obj\Debug\net6.0\ref\StackProblemUC2.dll
