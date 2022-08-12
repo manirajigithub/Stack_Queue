@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\bin\Debug\net6.0\QueueProblem.exe
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\bin\Debug\net6.0\QueueProblem.deps.json
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\bin\Debug\net6.0\QueueProblem.runtimeconfig.json
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\bin\Debug\net6.0\QueueProblem.dll
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\bin\Debug\net6.0\QueueProblem.pdb
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.AssemblyInfo.cs
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.dll
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\refint\QueueProblem.dll
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.pdb
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\QueueProblem.genruntimeconfig.cache
+C:\Users\mani1\source\repos\StackProblem\QueueProblem\obj\Debug\net6.0\ref\QueueProblem.dll
